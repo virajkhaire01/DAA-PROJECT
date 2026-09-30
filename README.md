@@ -6,7 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)](https://python.org)
 [![DAA Project](https://img.shields.io/badge/DAA-Greedy%20%7C%20DP%20%7C%20Backtracking-purple?style=flat-square)](docs/project_report_notes.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![Tests: Passing](https://img.shields.io/badge/Tests-9%2F9%20Passing-brightgreen?style=flat-square)](tests/test_scheduler.py)
 
 ---
