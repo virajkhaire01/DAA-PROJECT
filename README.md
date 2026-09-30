@@ -286,18 +286,3 @@ J5,3,5,5,backend,,120
 - **Visualizations:** Terminal ANSI & Unicode ASCII Gantt charts, SVG/CSS Gantt timeline
 
 ---
-
-## 📜 Attribution & License
-
-This college project was adapted and extended from the open-source project [Task-Scheduler-Optimization-System](https://github.com/Sonia068/Task-Scheduler-Optimization-System) by Sonia Thakur under the **MIT License**.
-
-**Extensions developed for this DAA project:**
-- Genuine Recursive Backtracking Job Scheduling module with Branch & Bound pruning (`src/backtracking_scheduler.py`).
-- JavaScript Backtracking scheduling engine for browser dashboard (`dashboard.html`).
-- Empirical multi-algorithm benchmark module (`src/benchmark.py`).
-- Real-time high-resolution execution timing (`time.perf_counter()` / `performance.now()`).
-- Theoretical Big-O vs measured execution time analysis.
-- College demo dataset and comprehensive test suite (`tests/test_scheduler.py`).
-- Comprehensive DAA College Report documentation (`docs/project_report_notes.md`) and Viva preparation guide (`docs/viva_questions.md`).
-
-All original copyright notices and MIT license terms are preserved in accordance with institutional and open-source guidelines.
